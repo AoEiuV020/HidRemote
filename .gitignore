@@ -14,3 +14,7 @@
 .externalNativeBuild
 .cxx
 /.idea
+
+/signing.properties
+/*.jks
+/*.jks.txt
